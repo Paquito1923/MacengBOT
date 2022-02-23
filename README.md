@@ -1,8 +1,8 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=dawnlinch&label=Profile%20views&color=443c42&style=plastic" alt="dawnlinch" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Paquito1923&label=Profile%20views&color=443c42&style=plastic" alt="Elyash" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Paquito1923" alt="Elyash" /></a> </p>
 
-# I'm [Maceng](https://github.com/dawnlinch) ! :sunglasses:
-### I'd like to do project that has relation to anime. :ghost:
+# I'm [Elyash](https://github.com/Paquito1923) ! :sunglasses:
+### I'M NOT WIBU. :ghost:
 
 
 <h3 align="left">:page_with_curl: I'm currently learning:</h3>
